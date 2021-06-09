@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Web API</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication6.Controllers.PersonController.GetAllPersons">
+            <summary>
+            Returns a list of all people
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication6.Controllers.PersonController.GetPersonById(System.Int32)">
+             <summary>
+             Creates a TodoItem.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Todo
+                 {
+                    "id": 1,
+                    "name": "Item1",
+                    "isComplete": true
+                 }
+            
+             </remarks>
+        </member>
+        <member name="M:WebApplication6.Controllers.PersonController.postPerson(Business_Logic_Layer.Models.PersonModel)">
+            <response code="201">Returns the newly created item</response>
+            <response code="400">If the item is null</response>  
+        </member>
+    </members>
+</doc>

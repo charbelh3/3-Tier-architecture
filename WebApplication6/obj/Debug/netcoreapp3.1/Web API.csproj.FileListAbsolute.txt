@@ -1,0 +1,52 @@
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.exe
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.deps.json
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.json
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.runtimeconfig.dev.json
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.pdb
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.csprojAssemblyReference.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.AssemblyInfo.cs
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.Manifest.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\staticwebassets\Web API.StaticWebAssets.xml
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\scopedcss\bundle\Web API.styles.css
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.RazorTargetAssemblyInfo.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.csproj.CopyComplete
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.pdb
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.genruntimeconfig.cache
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Business_Logic_Layer.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Data_Access_Layer.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Business_Logic_Layer.pdb
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Data_Access_Layer.pdb
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A\source\repos\WebApplication6\WebApplication6\bin\Debug\netcoreapp3.1\Web API.xml
+C:\Users\A\source\repos\WebApplication6\WebApplication6\obj\Debug\netcoreapp3.1\Web API.xml

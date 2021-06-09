@@ -1,0 +1,9 @@
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\obj\Debug\netstandard2.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\obj\Debug\netstandard2.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\obj\Debug\netstandard2.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\bin\Debug\netstandard2.0\Data_Access_Layer.deps.json
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\bin\Debug\netstandard2.0\Data_Access_Layer.dll
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\bin\Debug\netstandard2.0\Data_Access_Layer.pdb
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\obj\Debug\netstandard2.0\Data_Access_Layer.csprojAssemblyReference.cache
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\obj\Debug\netstandard2.0\Data_Access_Layer.dll
+C:\Users\A\source\repos\WebApplication6\Data_Access_Layer\obj\Debug\netstandard2.0\Data_Access_Layer.pdb
